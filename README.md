@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm DAVID K KEMBOI</h1>
 <h3 align="center">A passionate with Data analysis|IT Support</h3>
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-gif-27034905&psig=AOvVaw3q2dKtbh9CinxU07DzYn3K&ust=1691331495219000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPD_0PraxYADFQAAAAAdAAAAABAE">
 
 - 🔭 I’m currently working on **Data analysis and data cleaning**
 
