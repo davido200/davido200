@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm DAVID K KEMBOI</h1>
 <h3 align="center">A passionate with Data analysis|IT Support</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 - 🔭 I’m currently working on **Data analysis and data cleaning**
 
 - 🌱 I’m currently learning **I’m currently learning how to build simple models as a data analyst**
