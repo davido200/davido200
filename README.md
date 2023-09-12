@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Data Analysis projects**
 
-- 👨‍💻 All of my projects are available at [https://davido200.github.io/myportfolio/](https://davido200.github.io/myportfolio/)
+- 👨‍💻 All of my projects are available at [https://davido200.github.io/myportfolio/](https://davido200.github.io/David_Portfolio/)
 
 - 💬 Ask me about **Data analysis**
 
