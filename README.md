@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm DAVID K KEMBOI</h1>
-<h3 align="center">A passionate with Data analysis|Programmer</h3>
+<h3 align="center">A passionate with Data analysis|Programming</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif">
-- 🔭 I’m currently working on **Data analysis and data cleaning**
 
-- 🌱 I’m currently learning **I’m currently learning how to build simple models as a data analyst**
+- 🔭 I’m currently working on **Data analysis**
 
-- 👯 I’m looking to collaborate on **Data Analysis projects**
+- 🌱 I’m currently learning **I’m currently learning how to build complex models as a data analyst**
 
 - 👨‍💻 All of my projects are available at [https://davido200.github.io/myportfolio/](https://davido200.github.io/David_Portfolio/)
 
-- 💬 Ask me about **Data analysis**
+- 💬 Ask me about **Data analysis & Programming; Python**
 
 - 📫 How to reach me **Dkemboi888@gmail.com**
 
