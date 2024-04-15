@@ -2,17 +2,17 @@
 <h3 align="center">A passionate with Data Science</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif">
 
-- 🔭 I’m currently working on **Data analysis**
+- 🔭 I’m currently working on **Machine Learning**
 
-- 🌱 I’m currently learning **I’m currently learning how to build complex models as a data analyst**
+- 🌱 I’m currently learning **I’m currently learning how to build complex models as a data Scientist**
 
 - 👨‍💻 All of my projects are available at [https://davido200.github.io/myportfolio/](https://davido200.github.io/David_Portfolio/)
 
-- 💬 Ask me about **Data analysis,data scientist & Programming; Python**
+- 💬 Ask me about **Data analysis,data science & Programming; Python**
 
 - 📫 How to reach me **Dkemboi888@gmail.com**
 
-- ⚡ Fun fact **Music**
+- ⚡ Fun fact **Listening Music & Nature Hiking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
