@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm DAVID K KEMBOI</h1>
-<h3 align="center">A passionate with Data Science</h3>
+<h3 align="center">A passionate with Data </h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif">
 
 - 🔭 I’m currently working on **Machine Learning**
